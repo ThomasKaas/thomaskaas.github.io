@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Thomas' Website"
+title                    : "Thomas's Homepage"
 title_separator          : "-"
 name                     : &name "Thomas Kaas"
 description              : &description "Physician & Scientist 👨🏻‍⚕️ with a passion for electrophysiology 🫀⚡️ and Data Science 👨🏻‍💻. I love biking & volleyball. 🌲🚴"
@@ -22,13 +22,12 @@ repository               : "ThomasKaas/thomaskaas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image_cropped"
+  avatar           : "66ddbf13.jpg"
   name             : "Thomas Kaas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Berlin"
-  employer         : "Charité Universitätsmedizin 
-                      & Deutsches Herzzentrum der Charité"
+  employer         : "Charité Universitätsmedizin"
   uri              : https://www.dhzc.charite.de/kliniken/ccm-kardiologie/
   email            : "thomas.kaas243@gmail.com" 
 
@@ -60,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : /in/thomas-kaas-70140423a
+  linkedin         : thomas-kaas-70140423a
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
