@@ -14,7 +14,7 @@ My career began in basic neuroscience, where I investigated neuronal development
 Today, I’m pursuing a specialization in cardiology, with a particular interest in arrhythmic disorders and the heart’s electrical conduction system.
 
 # 🚀 Ambitions
-As I transition into cardiology, I bring with me:
+With a transition from neuroscience into cardiology, I bring with me:
 - A rigorous foundation in cellular biology and systems physiology 🧬 
 - A strong methodological background in electrophysiology ⚡️🫀 
 - A growing expertise in data-driven healthcare and AI-based diagnostics 🤖  
