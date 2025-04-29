@@ -6,20 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
-layout: home
-title: "Welcome"
-permalink: /
-author_profile: true
----
-
 # 👋 Hello, I'm Thomas Kaas!
 
 Physician & Scientist 👨🏻‍⚕️ with a passion for **electrophysiology** 🫀⚡️ and **data science** 👨🏻‍💻.  
 Currently pursuing cardiology residency at the Charité Universitätsmedizin / Deutsches Herzzentrum der Charité.
 
 ---
-
 ## 🧠 Background
 
 Physician and scientist with a deep passion for healthcare, life sciences research, and data science. I'm dedicated to advancing medical care and deepening our understanding of health and disease.
@@ -29,7 +21,6 @@ My career began in basic neuroscience, where I investigated neuronal development
 Today, I’m pursuing a specialization in cardiology, with a particular interest in arrhythmic disorders and the heart’s electrical conduction system.
 
 ---
-
 ## 🚀 Ambitions
 
 As I transition into cardiology, I bring with me:
@@ -39,6 +30,5 @@ As I transition into cardiology, I bring with me:
 - A strong drive to translate scientific insight into better patient care ❤️‍🩹  
 
 ---
-
 Feel free to connect or collaborate — I’m always open for exchange and discussing ideas!
 
