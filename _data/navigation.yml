@@ -8,9 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Research"
+    url: https://scholar.google.de/citations?user=TzTlt20AAAAJ&hl=de&oi=ao
 
+  - title: "CV"
+    url: files/CV_Thomas Kaas_EN.pdf
+  
   #- title: "Talks"
   #  url: /talks/    
 
@@ -22,10 +25,7 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: files/CV_Thomas Kaas_EN.pdf
-    
+
   # - title: "CV"
   #   url: /cv-json/
     
