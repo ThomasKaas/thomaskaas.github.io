@@ -12,7 +12,7 @@ main:
     url: https://scholar.google.de/citations?user=TzTlt20AAAAJ&hl=de&oi=ao
 
   - title: "CV"
-    url: files/CV_Thomas_Kaas_EN.pdf
+    url: /files/CV.pdf
   
   #- title: "Talks"
   #  url: /talks/    
