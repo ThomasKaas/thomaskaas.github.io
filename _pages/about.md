@@ -9,7 +9,6 @@ redirect_from:
 # 👋 Hello, I'm Thomas!
 
 I am a research-oriented physician pursuing a clinical training in cardiology at the Charité Universitätsmedizin / Deutsches Herzzentrum der Charité.
-
 ---
 ## 🧠 Background
 
@@ -18,7 +17,6 @@ I am a Physician and scientist with a deep passion for healthcare, life sciences
 My career began in basic neuroscience, where I investigated neuronal development and signaling —first at the level of cell assemblies, and later at the subcellular scale, focusing on individual synapses. With a strong methodological focus on electrophysiology and a desire to translate findings to improve healthcare led me into clinical training.
 
 Today, I’m pursuing a specialization in cardiology, with a particular interest in arrhythmic disorders and the heart’s electrical conduction system.
-
 ---
 ## 🚀 Ambitions
 
