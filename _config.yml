@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Thomas's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Thomas Kaas"
 description              : &description "Physician & Scientist"
@@ -28,7 +28,7 @@ author:
   bio              : "Physician & Scientist 👨🏻‍⚕️ with a passion for electrophysiology 🫀⚡️ & Data Science 👨🏻‍💻."
   location         : "Berlin"
   employer         : "Charité Universitätsmedizin"
-  uri              : https://www.dhzc.charite.de/kliniken/ccm-kardiologie/
+  uri              : #
   email            : "thomas.kaas243@gmail.com" 
 
   # Academic websites
