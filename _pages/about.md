@@ -9,7 +9,7 @@ redirect_from:
 # About Me & Background
 I am a resident physician and scientist at [Charité](https://www.dhzc.charite.de/) in Berlin with a deep passion for healthcare, life sciences research, and data science. 
 
-My career began in basic neuroscience, where I investigated neuronal development and signaling —first at the level of cell assemblies, and later at the subcellular scale, focusing on individual synapses. With a strong methodological focus on electrophysiology and a desire to translate findings to improve healthcare led me into clinical training.
+My career began in basic neuroscience, where I investigated neuronal development and signaling —first at the level of cell assemblies, and later at the subcellular scale, focusing on individual synapses. A desire to translate scientific findings to improve healthcare and a strong methodological focus on electrophysiology led me into clinical training.
 
 Today, I’m pursuing a specialization in cardiology, with a particular interest in arrhythmic disorders and the heart’s electrical conduction system.
 
